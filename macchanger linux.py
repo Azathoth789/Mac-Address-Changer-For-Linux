@@ -74,6 +74,8 @@ if type==1:
     else:
         print("wrong choice entered")
 
+#0528a3d5ae21980c6998b56e02ec6642dc2aaf4a84a7346c4e1acc5167fa12b4862761eb43ca9ae7b7f176842f37f2ece0f3f68fb1746b11672e48c9ecfcd47f
+
 
 elif type==2:
     print_colored(f"{foreM} Changing mac address for : {foreY}" +interface)
